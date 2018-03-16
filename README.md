@@ -9,9 +9,6 @@
 - **Java competency**: Experienced.
 - **Prerequesties**: A machine that is able to run java programs.
 
-## Insights:
-- Conditional probabilities finally prove its usefulness. It's truly beautiful how theories play out so neatly in practice. Do not underestimate the power of statistic courses ( although they didn't help me much, lol ).
-
 ## What does this program do ?
 - It takes in a training dataset and a text and produces a binary decision wether the text is ham or spam, the accuracy depends on the dataset.
 
